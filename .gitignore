@@ -1,3 +1,7 @@
 # Data Output Files
 *.json
 *.txt
+*.pyc
+
+# Keep requirements
+!requirements.txt

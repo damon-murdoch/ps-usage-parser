@@ -32,8 +32,8 @@ FORMATS = {
     "gen9vgc2024reghbo3": ["2024-08..12"],
     "gen9vgc2025regg": ["2025-01..03"],
     "gen9vgc2025reggbo3": ["2025-01..03"],
-    "gen9vgc2025regi": ["2025-04"],
-    "gen9vgc2025regibo3": ["2025-04"],
+    "gen9vgc2025regi": ["2025-04..05"],
+    "gen9vgc2025regibo3": ["2025-04..05"],
 }
 
 RATINGS = {"1760"}
